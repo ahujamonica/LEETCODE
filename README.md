@@ -31,39 +31,11 @@ Unlike a typical solution repository, every problem includes:
 - 🧠 Pattern Recognition
 - ❌ Common Mistakes
 - 💻 Clean Java Solution
-- 🔗 Related Problems
 
 The goal is to build a **revision-friendly handbook** that helps me quickly recognize interview patterns and revise efficiently before coding rounds.
 
 ---
 
-# 🗂️ Repository Structure
-
-```text
-LEETCODE/
-│
-├── Arrays/
-│   ├── 0031-Next-Permutation
-│   ├── 0073-Set-Matrix-Zeroes
-│   ├── 0118-Pascals-Triangle
-│   └── ...
-│
-├── Strings/
-│
-├── Binary Search/
-│
-├── Linked List/
-│
-├── Stack/
-│
-├── Queue/
-│
-├── Trees/
-│
-├── SQL/
-│
-└── README.md
-```
 
 ---
 
@@ -81,7 +53,7 @@ LEETCODE/
 | Stack | 🔜 |
 | Queue | 🔜 |
 | Trees | 🔜 |
-| SQL | 🔜 |
+| SQL | 🟢 |
 
 ---
 
@@ -173,23 +145,6 @@ This makes the repository useful for both learning and quick revisions.
 
 ---
 
-# 📈 Progress
-
-```
-Arrays            ██████████░░░░░░░░░░
-
-Strings           ░░░░░░░░░░░░░░░░░░░░
-
-Linked List       ░░░░░░░░░░░░░░░░░░░░
-
-Trees             ░░░░░░░░░░░░░░░░░░░░
-
-SQL               ░░░░░░░░░░░░░░░░░░░░
-```
-
-*(Updated regularly as I solve more problems.)*
-
----
 
 # 🌟 Connect
 
