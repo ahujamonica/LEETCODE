@@ -56,8 +56,10 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 
 # 🧠 Algorithms/Approaches I'm coming across
 
-- Kadane's Algorithm : Max Subarray [Kadane's Algorithm finds the maximum subarray sum by maintaining a running total that is continuously used to update the global maximum, resetting itself to zero whenever it drops below zero since a negative sum cannot improve subsequent elements.]
-- Dutch National Flag, DNF Algorithm : Sort Colours []
+- **Kadane's Algorithm** : Max Subarray
+  *[Kadane's Algorithm finds the maximum subarray sum by maintaining a running total that is continuously used to update the global maximum, resetting itself to zero whenever it drops below zero since a negative sum cannot improve subsequent elements.]*
+- **Dutch National Flag, DNF Algorithm** : Sort Colours
+  *[ ]*
 - 
 - 
 - 
