@@ -54,26 +54,16 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 
 ---
 
-# 🧠 Pattern Library
+# 🧠 Algorithms/Approaches I'm coming across
 
-Throughout this journey, I aim to master common interview patterns such as:
-
-- HashMap
-- HashSet
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Fast & Slow Pointers
-- Greedy
-- Prefix Sum
-- Kadane's Algorithm
-- Moore's Voting Algorithm
-- Matrix Traversal
-- Monotonic Stack
-- DFS
-- BFS
-- Recursion
-- Dynamic Programming *(coming later)*
+- Kadane's Algorithm : Max Subarray [Kadane's Algorithm finds the maximum subarray sum by maintaining a running total that is continuously used to update the global maximum, resetting itself to zero whenever it drops below zero since a negative sum cannot improve subsequent elements.]
+- Dutch National Flag, DNF Algorithm : Sort Colours []
+- 
+- 
+- 
+- 
+-
+- 
 
 ---
 
