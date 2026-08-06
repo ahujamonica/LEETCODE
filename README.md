@@ -58,8 +58,9 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 
 - **Kadane's Algorithm** : Max Subarray
   *[Kadane's Algorithm finds the maximum subarray sum by maintaining a running total that is continuously used to update the global maximum, resetting itself to zero whenever it drops below zero since a negative sum cannot improve subsequent elements.]*
-- **Dutch National Flag, DNF Algorithm** : Sort Colours
-  *[ ]*
+  
+- **Dutch National Flag, DNF Algorithm, Three pointer approach** : Sort Colours
+  *[The Dutch National Flag (DNF) algorithm sorts an array of three distinct elements (like 0s, 1s, and 2s) in a single linear pass O(N) by using three pointers to swap elements into their correct low, middle, or high zones without using any extra memory O(1).]*
 - 
 - 
 - 
