@@ -624,68 +624,6 @@ The final array remains sorted.
 
 ---
 
-# 💻 Java Solutions
-
-## 🐢 Brute Force
-
-```java
-class Solution {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-
-        // Copy nums2 into the empty positions of nums1
-        for(int i = 0; i < n; i++){
-            nums1[m + i] = nums2[i];
-        }
-
-        // Sort the complete array
-        Arrays.sort(nums1);
-    }
-}
-```
-
----
-
-## 🚀 Optimal — Three Pointers
-
-```java
-class Solution {
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-
-        // Three pointer approach
-
-        // i -> last valid element in nums1
-        int i = m - 1;
-
-        // j -> last element in nums2
-        int j = n - 1;
-
-        // k -> last available position in nums1
-        int k = m + n - 1;
-
-        // Continue until all elements of nums2 are placed
-        while(j >= 0){
-
-            // If nums1 still has elements and its current
-            // element is larger, place it at the end
-            if(i >= 0 && nums1[i] > nums2[j]){
-                nums1[k] = nums1[i];
-                i--;
-            } 
-            else{
-                // Otherwise, place the element from nums2
-                nums1[k] = nums2[j];
-                j--;
-            }
-
-            // Move to the previous available position
-            k--;
-        }
-    }
-}
-```
-
----
-
 # 🎯 Takeaway
 
 - Both arrays are already sorted, so **don't sort again**.
@@ -723,27 +661,7 @@ O(1) Space
 
 ---
 
-# 🔁 Similar Problems
+### ⭐ if you enjoyed this explanation?
 
-- 21. Merge Two Sorted Lists
-- 977. Squares of a Sorted Array
-- 349. Intersection of Two Arrays
-- 350. Intersection of Two Arrays II
-
----
-
-### ⭐ Enjoyed this explanation?
-
-If this README helped you understand the **Three-Pointer In-Place Merge**, consider **starring ⭐ the repository**.
-
-Your support motivates me to keep building a detailed Java DSA Playbook with:
-
-- 🧠 Pattern recognition
-- 💡 Intuition
-- 🐢 Brute-force solutions
-- 🚀 Optimized solutions
-- 🤔 Personal doubts & clarifications
-- 📝 Dry runs
-- 💻 Clean Java implementations
 
 Happy Coding! 🚀✨
