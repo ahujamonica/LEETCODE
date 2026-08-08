@@ -61,7 +61,10 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
   
 - **Dutch National Flag, DNF Algorithm, Three pointer approach** : Sort Colours
   *[The Dutch National Flag (DNF) algorithm sorts an array of three distinct elements (like 0s, 1s, and 2s) in a single linear pass O(N) by using three pointers to swap elements into their correct low, middle, or high zones without using any extra memory O(1).]*
-- 
+  
+- **Floyd's Cycle Detection/Tortoise & Hare algo, slow and fast pointer approach**: Find Duplicate number
+ *[Treat the array like a linked list where nums[i] points to the next index, then use a slow pointer moving one step and a fast pointer moving two steps to find the cycle and its entrance.]*
+  
 - 
 - 
 - 
