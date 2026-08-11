@@ -1,4 +1,10 @@
-// Memoization usage --> Memoization is a programming optimization technique that speeds up programs by saving the results of expensive function calls. When the same inputs occur again, the program returns the cached result instantly instead of repeating the computation.
+/*
+
+Memoization usage --> Memoization is a programming optimization technique that speeds 
+up programs by saving the results of expensive function calls. When the same inputs occur again, 
+the program returns the cached result instantly instead of repeating the computation.
+
+*/
 
 class Solution {
     public int uniquePaths(int m, int n) {
