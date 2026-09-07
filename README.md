@@ -46,9 +46,9 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 | Two Pointers | 🔜 |
 | Sliding Window | 🔜 |
 | Binary Search | 🔜 |
-| Linked List | 🟡 |
-| Stack | 🔜 |
-| Queue | 🔜 |
+| Linked List | 🟢 |
+| Stack | 🟡 |
+| Queue | 🟡 |
 | Trees | 🔜 |
 | SQL | 🟢 |
 
