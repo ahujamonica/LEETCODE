@@ -1,4 +1,4 @@
-# ~// ★ 994. Rotting Oranges ★ \\~  
+# // ★ 994. Rotting Oranges ★ \\
 ### `DFS` • `Minimum Time` • `Flood Fill`
 
 🔗 **LeetCode:** https://leetcode.com/problems/rotting-oranges/
