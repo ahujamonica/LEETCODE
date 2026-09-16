@@ -1,4 +1,4 @@
-# ~// ★ 901. Stock Spanner ★ \\~
+# // ★ 901. Stock Spanner ★ \\
 
 🔗 **LeetCode:** https://leetcode.com/problems/online-stock-span/
 
