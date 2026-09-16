@@ -65,7 +65,8 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 - **Floyd's Cycle Detection/Tortoise & Hare algo, slow and fast pointer approach**: Find Duplicate number
  *[Treat the array like a linked list where nums[i] points to the next index, then use a slow pointer moving one step and a fast pointer moving two steps to find the cycle and its entrance.]*
   
-- 
+- **Flood Fill Algorithm** : Rotten Oranges
+*[Flood Fill is a grid traversal algorithm where you start from one cell and visit all connected cells of the same type/value, changing them to a new value.]*
 - 
 - 
 -
