@@ -41,16 +41,15 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 | Topic | Status |
 |--------|:------:|
 | Arrays | 🟢 |
-| Strings | 🔜 |
+| Strings | 🟡 |
 | Hashing | 🔜 |
 | Two Pointers | 🔜 |
 | Sliding Window | 🔜 |
 | Binary Search | 🔜 |
 | Linked List | 🟢 |
-| Stack | 🟡 |
-| Queue | 🟡 |
+| Stack | 🟢 |
+| Queue | 🟢 |
 | Trees | 🔜 |
-| SQL | 🟢 |
 
 ---
 
