@@ -41,7 +41,7 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 | Topic | Status |
 |--------|:------:|
 | Arrays | 🟢 |
-| Strings | 🟡 |
+| Strings | 🟢 |
 | Hashing | 🔜 |
 | Two Pointers | 🔜 |
 | Sliding Window | 🔜 |
@@ -49,7 +49,7 @@ The goal is to build a **revision-friendly handbook** that helps me quickly reco
 | Linked List | 🟢 |
 | Stack | 🟢 |
 | Queue | 🟢 |
-| Trees | 🔜 |
+| Trees | 🟡 |
 
 ---
 
