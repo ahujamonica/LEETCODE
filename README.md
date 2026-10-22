@@ -139,7 +139,8 @@ This makes the repository useful for both learning and quick revisions.
 ---
 
 #  📈 Track
-- First 100qs : 24-08-26
+- 100qs : 24-08-26
+- 150qs : 22-10-26
 
 
 # 🌟 Connect
